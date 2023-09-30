@@ -20,7 +20,7 @@ Read or watch:
 - [CS50 Algorithms explanation in detail by David Malan](https://cs50.harvard.edu/x/2023/notes/3/)
 - [All about sorting algorithms - Geeks for Geeks resource](https://www.geeksforgeeks.org/sorting-algorithms/)
 
-### Learning Objectives
+### Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
