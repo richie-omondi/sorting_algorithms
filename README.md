@@ -45,10 +45,6 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - All your header files should be include guarded
 - A list/array does not need to be sorted if its size is less than 2.
 
-#### More Info
-
-Data Structure and Functions
-
 ### For this project make use of the following print_array, and print_list functions that are included in `sort.h`:
 
 ```
