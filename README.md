@@ -118,3 +118,7 @@ typedef struct listint_s
     struct listint_s *next;
 } listint_t;
 ```
+
+**1000-sort_deck.c**
+
+![image](https://github.com/richie-omondi/sorting_algorithms/assets/69873039/8cceb1f3-7608-4eee-97a0-b86cc100bbfb)
