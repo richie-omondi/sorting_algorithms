@@ -33,13 +33,14 @@ void quick_recursion(int *array, int left, int right, size_t size)
 }
 
 /**
- * partition - gives a piv index for Quicksort
- * @array: array to find the piv in
+ * partition - gives a pivot index for Quicksort
+ * by utilizing the Lomuto partition scheme
+ * @array: array to find the pivot in
  * @left: index of the left element
  * @right: index of the right element
  * @size: size of the array
  *
- * Return: the index of the piv element
+ * Return: the index of the pivot element
  */
 int partition(int *array, int left, int right, size_t size)
 {
